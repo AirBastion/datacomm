@@ -1,0 +1,75 @@
+[{
+  "slug": "example-product",
+  "name": "example-product",
+  "isTopLevel": false,
+  "updatedAt": {
+    "$date": "2018-09-08T11:13:44-0700"
+  },
+  "createdAt": {
+    "$date": "2018-09-08T11:13:44-0700"
+  },
+  "_id": "cseCBSSrJ3t8HQSNP",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+}, {
+  "slug": "aqd",
+  "name": "Air Quality Data",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2018-09-08T11:13:44-0700"
+  },
+  "createdAt": {
+    "$date": "2018-09-08T11:13:44-0700"
+  },
+  "_id": "rpjCvTBGjhBi2xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+  {
+    "slug": "example-product",
+    "name": "example-product",
+    "isTopLevel": false,
+    "updatedAt": {
+      "$date": "2018-09-08T11:13:44-0700"
+    },
+    "createdAt": {
+      "$date": "2018-09-08T11:13:44-0700"
+    },
+    "_id": "cseCBSSrJ3t8HQSNP",
+    "shopId": "J8Bhq3uTtdgwZx3rz"
+  }, {
+  "slug": "ffd",
+  "name": "Footfall Data",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2018-09-08T11:13:44-0700"
+  },
+  "createdAt": {
+    "$date": "2018-09-08T11:13:44-0700"
+  },
+  "_id": "rpjCvTBGjhBi2xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+},
+  {
+    "slug": "example-product",
+    "name": "example-product",
+    "isTopLevel": ,
+    "updatedAt": {
+      "$date": "2018-09-08T11:13:44-0700"
+    },
+    "createdAt": {
+      "$date": "2018-09-08T11:13:44-0700"
+    },
+    "_id": "cseCBSSrJ3t8HQSNP",
+    "shopId": "J8Bhq3uTtdgwZx3rz"
+  }, {
+  "slug": "nd",
+  "name": "Noise Data",
+  "isTopLevel": true,
+  "updatedAt": {
+    "$date": "2018-09-08T11:13:44-0700"
+  },
+  "createdAt": {
+    "$date": "2018-09-08T11:13:44-0700"
+  },
+  "_id": "rpjCvTBGjhBi2xdro",
+  "shopId": "J8Bhq3uTtdgwZx3rz"
+}]
